@@ -17,7 +17,7 @@ There are 20 featuures (independent variables) and 1 target (dependent) variable
 Whether the customer churned or not (Yes or No)
 
 ### Two numerical columns:
-# MonthlyCharges:
+### MonthlyCharges:
 The amount charged to the customer monthly
-# TotalCharges:
+### TotalCharges:
 The total amount charged to the customer
