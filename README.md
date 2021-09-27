@@ -13,5 +13,4 @@ There are 20 featuures (independent variables) and 1 target (dependent) variable
 
 ### Attributes Information
 ### Prediction column:
-### Churn:
-Whether the customer churned or not (Yes or No)
+### Churn###: Whether the customer churned or not (Yes or No)
