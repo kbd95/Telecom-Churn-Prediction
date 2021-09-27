@@ -40,3 +40,20 @@ The total amount charged to the customer
 16. Contract: The contract term of the customer (Month-to-month, One year, Two years)
 17. PaperlessBilling: Whether the customer has paperless billing or not (Yes, No)
 18. PaymentMethod: The customer’s payment method (Electronic check, Mailed check, Bank transfer (automatic), Credit card (automatic))
+
+### The project is structured as follows:
+#### Data cleaning
+#### Exploratory Data Analysis
+#### Data Preprocessing
+#### Encoding
+#### Feature Selection
+#### Oversampling Technique
+#### Model Creation and Evaluation
+#### Improving the Model
+
+
+
+
+
+
+
