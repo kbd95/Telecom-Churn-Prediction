@@ -10,3 +10,8 @@ Churn prediction is common use case in machine learning domain. If you are not f
 In this project, Telco Customer Churn Dataset which is available at Kaggle is used.
 
 There are 20 featuures (independent variables) and 1 target (dependent) variable for 7043 customers. Target variable indicates if a customer has has left the company (i.e. churn=yes) within the last month. Since the target variable has two states (yes/no or 1/0), this is a binary classification problem.
+
+## Attributes Information
+## Prediction column:
+## Churn:
+Whether the customer churned or not (Yes or No)
